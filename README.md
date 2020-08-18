@@ -4,10 +4,10 @@ To view overall grades, budget, school size, school type and compare.
 #**Results**
 We were able to determine there were a total of 15 schools, over 39,000 students with a budget of over $24million between them in the district. 
 We saw the average math score for the district was 78.9, average reading score was 81.9. Based on the scores of 70 and over as passing, about 73.9% of the district passed math, and 84.7 % passed reading; a total of 64.1% passed overall math and reading.
-![District Summary](district summary.png)
+![District Summary](district_summary.png)
 Based on the school summary dataframe, we can clearly see that charter schools have a much higher overall passing percentage compared to the district type schools.
 We can also see that the populations of the charter schools are lower than thr district schools. 
-![Summary by Schools](Resources/school summary.png)
+![Summary by Schools](school summary.png)
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data.
 - The top five performing schools were all charter schools with 91.33% of the overall students passing, and the lowest of the top five still had 90.54% overall passing
 - The bottom five performing schools were all district schools with only 53.54% passing.
