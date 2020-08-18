@@ -20,7 +20,7 @@ There is a bulleted list that addresses how each of the seven school district me
 ![Scores by School Size](school_size.png)
 
 -Lastly, we can reconfirm based on school type, charter school students performed better than district school students
-![Scores by School Type]{school_type.png)
+![Scores by School Type](school_type.png)
 
 #**Summary**
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced.
