@@ -7,7 +7,7 @@ We saw the average math score for the district was 78.9, average reading score w
 ![District Summary](district summary.png)
 Based on the school summary dataframe, we can clearly see that charter schools have a much higher overall passing percentage compared to the district type schools.
 We can also see that the populations of the charter schools are lower than thr district schools. 
-![Summary by Schools](Resource/school summary.png)
+![Summary by Schools](Resources/school summary.png)
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data.
 - The top five performing schools were all charter schools with 91.33% of the overall students passing, and the lowest of the top five still had 90.54% overall passing
 - The bottom five performing schools were all district schools with only 53.54% passing.
