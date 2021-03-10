@@ -1,7 +1,7 @@
-#**Overview of the school district analysis**
+# **Overview of the school district analysis**
 To view overall grades, budget, school size, school type and compare.
 
-#**Results**
+# **Results**
 We were able to determine there were a total of 15 schools, over 39,000 students with a budget of over $24million between them in the district. 
 We saw the average math score for the district was 78.9, average reading score was 81.9. Based on the scores of 70 and over as passing, about 73.9% of the district passed math, and 84.7 % passed reading; a total of 64.1% passed overall math and reading.
 ![District Summary](district_summary.png)
@@ -22,7 +22,7 @@ There is a bulleted list that addresses how each of the seven school district me
 -Lastly, we can reconfirm based on school type, charter school students performed better than district school students
 ![Scores by School Type](school_type.png)
 
-#**Summary**
+# **Summary**
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced.
 By removing 9th graders' test scores from Thomas High School, the percentage of students passing math jumped from 66.91% to 93.19% and the percentage of students passing reading went from 69.66% to 97.02%.
 This raised the overall passing percentage for Thomas High School. 
